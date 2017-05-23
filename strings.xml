@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JogoDaVelha</string>
+    <string name="inicia">Escolha um modo de jogo</string>
+    <string name="multiplayer">2 jogadores</string>
+    <string name="singleplayer">1 jogador</string>
+    <string name="ModoSingle">Modo 1 jogador é contra o celular</string>
+    <string name="ModoMulti">Modo 2 jogadores é contra outra pessoa</string>
+    <string name="player2_win">Celular venceu!!!</string>
+    <string name="player1_win">Você venceu!!!</string>
+    <string name="tie">Deu Velha!!! Jogue novamente</string>
+    <string name="player2_turn">Vez do celular</string>
+    <string name="player1_turn">Sua vez</string>
+</resources>
